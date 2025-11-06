@@ -41,7 +41,7 @@ Você pode "ligar" este projeto e ver o motor funcionando.
 
 1.  **Clone o repositório** para sua máquina local:
     ```bash
-    git clone [https://github.com/SEU-USUARIO-GITHUB/ExemplosCodigo.git](https://github.com/SEU-USUARIO-GITHUB/ExemplosCodigo.git)
+    git clone [https://github.com/professorobama/ExemplosCodigo.git](https://github.com/professorobama/ExemplosCodigo.git)
     ```
 
 2.  **Abra a Solução** no Visual Studio 2022:
